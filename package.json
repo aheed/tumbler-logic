@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aheed/tumber-logic/issues"
   },
-  "homepage": "https://github.com/aheed/tumber-logic#readme"
+  "homepage": "https://github.com/aheed/tumber-logic#readme",
+  "publishConfig": {
+    "@aheed:registry": "https://npm.pkg.github.com"
+  }
 }
