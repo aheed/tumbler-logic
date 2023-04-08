@@ -1,5 +1,5 @@
 {
-  "name": "@aheed/tumber-logic",
+  "name": "@aheed/tumbler-logic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aheed/tumber-logic.git"
+    "url": "git+https://github.com/aheed/tumbler-logic.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aheed/tumber-logic/issues"
+    "url": "https://github.com/aheed/tumbler-logic/issues"
   },
-  "homepage": "https://github.com/aheed/tumber-logic#readme",
+  "homepage": "https://github.com/aheed/tumbler-logic#readme",
   "publishConfig": {
     "@aheed:registry": "https://npm.pkg.github.com"
   }
