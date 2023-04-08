@@ -1,1 +1,1 @@
-console.log("Hello, World from tumber-logic!");
+console.log("Hello, World from tumber-logic 🦗!");
