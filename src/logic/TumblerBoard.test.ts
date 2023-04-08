@@ -1,4 +1,3 @@
-import React from "react";
 import { IBallReceiver, ITumblerPartObserver, TumblerBallColor, TumblerPartType, TumblerResult } from "./TumblerTypes";
 import { TumblerBoard } from "./TumblerBoard";
 
