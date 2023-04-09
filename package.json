@@ -1,6 +1,6 @@
 {
   "name": "@aheed/tumbler-logic",
-  "version": "1.0.14",
+  "version": "1.0.19",
   "description": "",
   "main": "lib/index.js",
   "module": "lib/index.js",
